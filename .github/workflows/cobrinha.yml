@@ -10,6 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
@@ -17,6 +18,8 @@ jobs:
           github_user_name: LeonamJop
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - run: git status
 
       - name: Push changes
         uses: ad-m/github-push-action@master
