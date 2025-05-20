@@ -33,11 +33,11 @@
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
    <img width="12" /> -->
-   <img src="https://github.com/user-attachments/assets/ea8511c3-000e-43c5-bd90-eaf4efc1d88a" height="40" alt="html-css-js logo"  />
+   <img title="JS&HTML&CSS" src="https://github.com/user-attachments/assets/ea8511c3-000e-43c5-bd90-eaf4efc1d88a" height="40" alt="html-css-js logo"  />
    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+   <img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
    <img width="12" />
    <img title="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
    <img width="12" />
