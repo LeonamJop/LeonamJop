@@ -41,6 +41,8 @@
    <img width="12" />
    <img title="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
    <img width="12" />
+   <img title="Cypress" src="https://github.com/user-attachments/assets/49e34e72-f302-4460-81a4-01448a880f80" height="40" alt="cypress logo"  />
+   <img width="12" />
 </div>
 
 ###
